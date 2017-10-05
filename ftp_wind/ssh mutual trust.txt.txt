@@ -1,0 +1,4 @@
+mkdir /home/test/.ssh
+# ssh-keygen -t rsa
+# cp /root/.ssh/id_rsa.pub /home/test/.ssh/authorized_keys
+# chown -R test.sftp /home/test
